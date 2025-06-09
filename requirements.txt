@@ -1,0 +1,13 @@
+datasets==2.21.0
+faiss_cpu==1.7.4
+gradio==5.20.1
+langchain==0.3.20
+langchain_openai==0.3.8
+numpy==1.26.4
+openai==1.65.5
+pandas==2.2.3
+Pillow==11.1.0
+psycopg2==2.9.10
+pyvi==0.1.1
+torch==2.4.0
+transformers==4.43.2
